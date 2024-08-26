@@ -1,1 +1,1 @@
-#Simple School Management System with OOP in Java
+Simple School Management System with OOP in Java
